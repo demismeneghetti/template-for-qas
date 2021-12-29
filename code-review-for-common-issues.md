@@ -12,6 +12,6 @@ https://empresa.atlassian.net/browse/ISSUE-999
 ## Checklist de Atividades
 | **Problemas comuns** | **Auto-revisão** | **Revisão do Nomeado** |
 | -------------------- | ---------------- | ---------------------- |
-| Você consegue entender o código sem que o codificador o explique? | <input type="checkbox" disabled /> | <input type="checkbox" disabled checked /> | 
+| Você consegue entender o código sem que o codificador o explique? | <ul><li>- [ ] </li></ul> | <ul><li>- [x] </li></ul> | 
 
 <br/>
